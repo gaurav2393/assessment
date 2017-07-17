@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HTML5 Types</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+        <script src="jquery-3.2.1.js"></script>
+        <style>
+            ul {
+                width: 300px;
+                height: 300px;
+                border: 1px solid #000;
+            }
+            li {
+                padding: 5px;
+                border: 1px solid #000;
+            }
+        </style>
+    </head>
+    <body>
+        <ul class="menu-list" id="menuList"  data-operation="decrease" >
+            <li draggable="true" id="item1">
+                Item A $
+                <span>150</span>
+            </li>
+            <li draggable="true" id="item2">
+                Item B $
+                <span>100</span>
+            </li>
+            <li draggable="true" id="item3">
+                Item C $
+                <span>180</span>
+            </li>
+            <li draggable="true" id="item4">
+                Item D $
+                <span>250</span>
+            </li>
+        </ul>
+        <div>
+            <ul data-operation="" id="cart" class="cart">
+                <li draggable="true" id="item5">
+                    Item A $
+                    <span>300</span>
+                </li>
+            </ul>
+            <div>
+                <p>
+                    Total Price: <span id="totalValue">300</span>
+                </p>
+                <p>
+                    Total Items: <span id="totalItems">1</span>
+                </p>
+            </div>
+        </div>
+        <script src="assessmentQuestion2.js">
+        </script>
+    </body>
+</html>
