@@ -1,14 +1,5 @@
 (function(){    
 
-    // $().on('drop', function dropToMenu(event) {
-    //     var draggedElementID = event.dataTransfer.getData('id');
-    //     console.log(event);
-    //     var draggedElement = document.getElementById(draggedElementID);
-    //     var value = $('#'+draggedElementID+' span').html();
-    //     updateList(value, 'decrease');
-    //     event.target.appendChild(draggedElement);
-    // }
-
     function updateList(value, operation) {
         var totalValue = $('#totalValue');
         var totalItems = $('#totalItems'),
