@@ -1,0 +1,71 @@
+{
+    "data" : {
+      "accountUsers": [
+        {
+          "userId": 1,
+          "username": "Alexa Richardson",
+          "title": "Title of Specialist",
+          "companyName": "Cargill",
+          "locations": "New York",
+          "phoneNumber": "555 5555555",
+          "userBio": "Lorem ipsum dolor sit amet, consector.",
+          "skypeId": "Account123",
+          "mailId": "abc@xyz.com",
+          "linkedIn": "http://www.linkedIn.com/in/m143k",
+          "imageUrl" : "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png"
+        },
+        {
+          "userId": 2,
+          "username": "Alexa Richardson",
+          "title": "Title of Specialist",
+          "companyName": "Cargill",
+          "locations": "New York",
+          "phoneNumber": "555 5555555",
+          "userBio": "Lorem ipsum dolor sit amet, consector.",
+          "skypeId": "Account123",
+          "mailId": "abc@xyz.com",
+          "linkedIn": "http://www.linkedIn.com/in/m143k",
+          "imageUrl" : "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png"
+        },
+        {
+          "userId": 3,
+          "username": "Alexa Richardson",
+          "title": "Title of Specialist",
+          "companyName": "Cargill",
+          "locations": "New York",
+          "phoneNumber": "555 5555555",
+          "userBio": "Lorem ipsum dolor sit amet, consector.",
+          "skypeId": "Account123",
+          "mailId": "abc@xyz.com",
+          "linkedIn": "http://www.linkedIn.com/in/m143k",
+          "imageUrl" : "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png"
+        },
+        {
+          "userId": 4,
+          "username": "Alexa Richardson",
+          "title": "Title of Specialist",
+          "companyName": "Cargill",
+          "locations": "New York",
+          "phoneNumber": "555 5555555",
+          "userBio": "Lorem ipsum dolor sit amet, consector.",
+          "skypeId": "Account123",
+          "mailId": "abc@xyz.com",
+          "linkedIn": "http://www.linkedIn.com/in/m143k",
+          "imageUrl" : "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png"
+        },
+        {
+          "userId": 5,
+          "username": "Alexa Richardson",
+          "title": "Title of Specialist",
+          "companyName": "Cargill",
+          "locations": "New York",
+          "phoneNumber": "555 5555555",
+          "userBio": "Lorem ipsum dolor sit amet, consector.",
+          "skypeId": "Account123",
+          "mailId": "abc@xyz.com",
+          "linkedIn": "http://www.linkedIn.com/in/m143k",
+          "imageUrl" : "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png"
+        }
+      ]
+    }
+  }

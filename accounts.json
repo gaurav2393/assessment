@@ -1,0 +1,18 @@
+{
+    "data" : {
+      "accounts": [
+        {
+          "accountName": "Cargill",
+          "accountId": 11
+        },
+        {
+          "accountName": "Unilever",
+          "accountId": 21
+        },
+        {
+          "accountName": "Macdonalds",
+          "accountId": 31
+        }
+      ]
+    }
+  }
